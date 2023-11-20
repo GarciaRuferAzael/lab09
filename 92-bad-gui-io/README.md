@@ -23,7 +23,7 @@
 2. Add it to the JPanel created in ``Ex 01.01``
 3. Test your application. Verify that you can see a new button, but it is useless
 4. Write a new ``ActionListener`` for the new button, in form of anonymous class, that prints a string on terminal (use ``System.out``) when the button is pressed.
-5. Test it
+5. Test it.
 
 ### Ex 01.03
 1. Modify the ActionListener in such a way that it reads the content of the same file that is written when the button "write" is pressed, and prints its content on standard output
